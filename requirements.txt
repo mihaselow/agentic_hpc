@@ -1,0 +1,7 @@
+streamlit>=1.30.0
+pydantic>=2.0.0
+PyPDF2>=3.0.0
+requests>=2.31.0
+backoff>=2.2.1
+# ai4free SDK or API integration
+git+https://github.com/Devs-Do-Code/ai4free.git
